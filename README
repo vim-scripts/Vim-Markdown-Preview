@@ -2,7 +2,7 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=5012
 
 A Vim plugin for previewing markdown files in a browser. This plugin was designed to maintain focus on Vim but use Google Chrome to preview rendered markdown. Thus, everything is done in the background so you never have to leave vim.
 
-For more details see: https://github.com/JamshedVesuna/vim-markdown-preview
+For more the most updated version, more details, and a screenshot see: https://github.com/JamshedVesuna/vim-markdown-preview
 
 Usage
 
